@@ -7,3 +7,4 @@ this is a test4
 this is a test5
 this is a hotfix1
 this is a hotfix2
+this is a text 6
